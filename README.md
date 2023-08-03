@@ -10,6 +10,7 @@
     <link
   href="https://fonts.googleapis.com/css?family=Handjet"
   rel="stylesheet" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
   </head>
   <body>
     <!-- 4 heading levels: -->
