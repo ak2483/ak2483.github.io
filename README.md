@@ -11,6 +11,7 @@
   href="https://fonts.googleapis.com/css?family=Handjet"
   rel="stylesheet" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?"/>
+    <script src="main.js" defer></script>
   </head>
   <body>
     <!-- 4 heading levels: -->
@@ -29,6 +30,5 @@
     </ul>
 
     <button>Change user</button>
-    <script src="scripts/main.js"></script>
   </body>
 </html>
