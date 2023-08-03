@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="author" content="Altan Kocatulum" />
-    <title>PTCG Live Review</title>
+    <title>PTCG Live Review</title> 
     <link href="styles/style.css" rel="stylesheet" />
     <link
   href="https://fonts.googleapis.com/css?family=Handjet"
