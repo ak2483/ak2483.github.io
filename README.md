@@ -28,7 +28,10 @@
         <li> <a href="https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/swsh10/46/"> Radiant Greninja </a> </li>
         <li> <a href="https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/sv02/58/"> Frigibax</a> + <a href="https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/series/sv02/60/">Baxcalibur </a> </li>
     </ul>
-
+    <p> Check out the channel: </p>
+    <a href="http://www.youtube.com/channel/UCOldo0PCDAeqJhfXqH6a3yA">
+     <img src="images/Logo3.jpg" alt="Youtube Channel logo" height = 100 />
+    </a>
     <button>Change user</button>
   </body>
 </html>
